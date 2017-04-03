@@ -1,0 +1,8 @@
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/bin/Debug/netcoreapp1.1/API.deps.json
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/bin/Debug/netcoreapp1.1/API.runtimeconfig.json
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/bin/Debug/netcoreapp1.1/API.runtimeconfig.dev.json
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/bin/Debug/netcoreapp1.1/API.dll
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/bin/Debug/netcoreapp1.1/API.pdb
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/obj/Debug/netcoreapp1.1/API.AssemblyInfo.cs
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/obj/Debug/netcoreapp1.1/API.dll
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/obj/Debug/netcoreapp1.1/API.pdb
