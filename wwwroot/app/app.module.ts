@@ -4,14 +4,16 @@ import { HttpModule } from '@angular/http';
 import { RouterModule } from '@angular/router';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import 'rxjs/Rx';
-
 import { AppComponent } from './app.component';
-import { HomeComponent } from './component/home/home.component';
+import { HomeComponent } from './components/home/home.component';
+import { AppRouting } from './app.routing';
+import { NavBarComponent } from './components/navbar/navbar.component'
 
 @NgModule({
     declarations: [
-        AppComponent
-        HomeComponent
+        AppComponent,
+        HomeComponent,
+        NavBarComponent
     ],
     imports: [
         BrowserModule,

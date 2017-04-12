@@ -1,0 +1,8 @@
+C:\AMIS\RentalApplicationAPI\bin\Debug\netcoreapp1.1\RentalApplicationAPI.deps.json
+C:\AMIS\RentalApplicationAPI\bin\Debug\netcoreapp1.1\RentalApplicationAPI.runtimeconfig.json
+C:\AMIS\RentalApplicationAPI\bin\Debug\netcoreapp1.1\RentalApplicationAPI.runtimeconfig.dev.json
+C:\AMIS\RentalApplicationAPI\bin\Debug\netcoreapp1.1\RentalApplicationAPI.dll
+C:\AMIS\RentalApplicationAPI\bin\Debug\netcoreapp1.1\RentalApplicationAPI.pdb
+C:\AMIS\RentalApplicationAPI\obj\Debug\netcoreapp1.1\RentalApplicationAPI.AssemblyInfo.cs
+C:\AMIS\RentalApplicationAPI\obj\Debug\netcoreapp1.1\RentalApplicationAPI.dll
+C:\AMIS\RentalApplicationAPI\obj\Debug\netcoreapp1.1\RentalApplicationAPI.pdb
